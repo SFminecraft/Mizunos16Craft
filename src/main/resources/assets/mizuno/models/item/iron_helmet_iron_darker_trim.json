@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:item/generated",
+  "textures": {
+    "layer0": "mizuno:item/iron_helmet",
+    "layer1": "mizuno:trims/items/helmet_trim_iron_darker"
+  }
+}

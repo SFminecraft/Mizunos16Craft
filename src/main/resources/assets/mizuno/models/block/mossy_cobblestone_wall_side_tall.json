@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_wall_side_tall",
+  "textures": {
+    "wall": "mizuno:block/mossy_cobblestone"
+  }
+}

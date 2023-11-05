@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:item/generated",
+  "textures": {
+    "layer0": "mizuno:item/golden_chestplate",
+    "layer1": "mizuno:trims/items/chestplate_trim_gold_darker"
+  }
+}

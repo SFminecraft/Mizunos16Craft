@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:block/sculk_sensor",
+    "textures": {
+        "tendrils": "mizuno:block/sculk_sensor_tendril_inactive"
+    }
+}

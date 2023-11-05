@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_single_face",
+  "textures": {
+    "texture": "mizuno:block/red_mushroom_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/cube_all",
+  "textures": {
+    "all": "mizuno:block/brown_concrete_powder"
+  }
+}

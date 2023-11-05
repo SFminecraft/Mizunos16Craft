@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "bottom=false": {
+      "model": "mizuno:block/scaffolding_stable"
+    },
+    "bottom=true": {
+      "model": "mizuno:block/scaffolding_unstable"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/template_farmland",
+  "textures": {
+    "dirt": "mizuno:block/dirt",
+    "top": "mizuno:block/farmland"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/stairs",
+  "textures": {
+    "bottom": "mizuno:block/cherry_planks",
+    "side": "mizuno:block/cherry_planks",
+    "top": "mizuno:block/cherry_planks"
+  }
+}

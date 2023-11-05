@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/purpur_slab" },
+        "type=top": { "model": "mizuno:block/purpur_slab_top" },
+        "type=double": { "model": "mizuno:block/purpur_block_double_slab" }
+    }
+}

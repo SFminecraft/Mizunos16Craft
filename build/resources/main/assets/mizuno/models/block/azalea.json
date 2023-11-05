@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/template_azalea",
+  "textures": {
+    "side": "mizuno:block/azalea_side",
+    "top": "mizuno:block/azalea_top"
+  }
+}

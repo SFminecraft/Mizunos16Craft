@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/button_inventory",
+  "textures": {
+    "texture": "mizuno:block/acacia_planks"
+  }
+}

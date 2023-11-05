@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:item/handheld_rod",
+  "textures": {
+    "layer0": "mizuno:item/warped_fungus_on_a_stick"
+  }
+}

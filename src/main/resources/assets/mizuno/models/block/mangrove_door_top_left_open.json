@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/door_top_left_open",
+  "textures": {
+    "bottom": "mizuno:block/mangrove_door_bottom",
+    "top": "mizuno:block/mangrove_door_top"
+  }
+}

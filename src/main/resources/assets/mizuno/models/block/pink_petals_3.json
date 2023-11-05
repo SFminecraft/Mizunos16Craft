@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/flowerbed_3",
+  "textures": {
+    "flowerbed": "mizuno:block/pink_petals",
+    "stem": "mizuno:block/pink_petals_stem"
+  }
+}

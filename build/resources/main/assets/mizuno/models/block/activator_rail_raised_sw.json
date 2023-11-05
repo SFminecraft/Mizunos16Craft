@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_rail_raised_sw",
+  "textures": {
+    "rail": "mizuno:block/activator_rail"
+  }
+}

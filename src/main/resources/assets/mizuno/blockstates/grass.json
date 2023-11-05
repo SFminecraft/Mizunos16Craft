@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+	    { "model": "mizuno:block/grass", "weight": 4 },
+		{ "model": "mizuno:block/grass_0", "weight": 4 },
+		{ "model": "mizuno:block/grass_1", "weight": 1 },
+		{ "model": "mizuno:block/grass_2", "weight": 1 }
+	]
+    }
+}

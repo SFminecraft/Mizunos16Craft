@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:block/cube_column",
+    "textures": {
+        "end": "mizuno:block/yellow_wool",
+        "side": "mizuno:block/yellow_wool_side"
+    }
+}

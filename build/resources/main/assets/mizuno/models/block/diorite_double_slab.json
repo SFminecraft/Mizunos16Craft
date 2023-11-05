@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:block/cube_column",
+    "textures": {
+		"end": "mizuno:block/double_slab/double_slab_diorite_top",
+        "side": "mizuno:block/double_slab/double_slab_diorite_side"
+    }
+}

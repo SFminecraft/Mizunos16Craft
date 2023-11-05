@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/slab",
+  "textures": {
+    "bottom": "mizuno:block/polished_blackstone",
+    "side": "mizuno:block/polished_blackstone",
+    "top": "mizuno:block/polished_blackstone"
+  }
+}

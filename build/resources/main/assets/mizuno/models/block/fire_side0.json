@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_fire_side",
+  "textures": {
+    "fire": "mizuno:block/fire_0"
+  }
+}

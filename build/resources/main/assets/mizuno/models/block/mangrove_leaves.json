@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/leaves",
+  "textures": {
+    "all": "mizuno:block/mangrove_leaves"
+  }
+}

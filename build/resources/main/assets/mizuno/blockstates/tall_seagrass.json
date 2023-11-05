@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=lower": [
+                      { "model": "mizuno:block/tall_seagrass_bottom", "weight": 1 },
+                      { "model": "mizuno:block/tall_seagrass_bottom_0", "weight": 2 }
+        ],
+        "half=upper": [
+                      { "model": "mizuno:block/tall_seagrass_top", "weight": 1 },
+                      { "model": "mizuno:block/tall_seagrass_top_0", "weight": 2 }
+        ]
+    }
+}

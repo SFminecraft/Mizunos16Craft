@@ -1,0 +1,10 @@
+{
+  "parent": "mizuno:block/template_cake_with_candle",
+  "textures": {
+    "bottom": "mizuno:block/cake_bottom",
+    "candle": "mizuno:block/brown_candle_lit",
+    "particle": "mizuno:block/cake_side",
+    "side": "mizuno:block/cake_side",
+    "top": "mizuno:block/cake_top"
+  }
+}

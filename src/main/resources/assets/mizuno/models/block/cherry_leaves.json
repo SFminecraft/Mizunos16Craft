@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/leaves",
+  "textures": {
+    "all": "mizuno:block/cherry_leaves"
+  }
+}

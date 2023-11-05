@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/outer_stairs",
+  "textures": {
+    "bottom": "mizuno:block/warped_planks",
+    "side": "mizuno:block/warped_planks",
+    "top": "mizuno:block/warped_planks"
+  }
+}

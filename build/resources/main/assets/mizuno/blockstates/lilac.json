@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "mizuno:block/lilac_bottom"
+    },
+    "half=upper": {
+      "model": "mizuno:block/lilac_top"
+    }
+  }
+}

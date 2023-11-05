@@ -1,0 +1,78 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mizuno:block/netherrack"
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 90
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 180
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 270
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 270,
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 270,
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "y": 270
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "mizuno:block/netherrack",
+        "x": 270,
+        "y": 270
+      }
+    ]
+  }
+}

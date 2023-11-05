@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_seagrass",
+  "textures": {
+    "texture": "mizuno:block/tall_seagrass_bottom"
+  }
+}

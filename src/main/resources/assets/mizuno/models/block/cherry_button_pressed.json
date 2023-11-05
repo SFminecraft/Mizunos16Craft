@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/button_pressed",
+  "textures": {
+    "texture": "mizuno:block/cherry_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/wall_inventory",
+  "textures": {
+    "wall": "mizuno:block/polished_blackstone_bricks"
+  }
+}

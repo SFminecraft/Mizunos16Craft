@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mizuno:block/lectern",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mizuno:block/lectern"
+    },
+    "facing=south": {
+      "model": "mizuno:block/lectern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mizuno:block/lectern",
+      "y": 270
+    }
+  }
+}

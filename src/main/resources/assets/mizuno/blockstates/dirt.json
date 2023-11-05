@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mizuno:block/dirt"
+      },
+      {
+        "model": "mizuno:block/dirt",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/dirt",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/dirt",
+        "y": 270
+      }
+    ]
+  }
+}

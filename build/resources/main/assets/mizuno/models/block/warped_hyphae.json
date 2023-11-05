@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/warped_stem",
+    "side": "mizuno:block/warped_stem"
+  }
+}

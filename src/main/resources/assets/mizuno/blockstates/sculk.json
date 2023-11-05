@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mizuno:block/sculk"
+      },
+      {
+        "model": "mizuno:block/sculk_rotate"
+      }
+    ]
+  }
+}

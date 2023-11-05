@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "map=false": { "model": "mizuno:block/item_frame" },
+        "map=true":  { "model": "mizuno:block/item_frame_map" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/template_potted_azalea_bush",
+  "textures": {
+    "plant": "mizuno:block/potted_flowering_azalea_bush_plant",
+    "side": "mizuno:block/potted_flowering_azalea_bush_side",
+    "top": "mizuno:block/potted_flowering_azalea_bush_top"
+  }
+}

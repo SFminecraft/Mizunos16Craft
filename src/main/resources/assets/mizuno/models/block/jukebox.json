@@ -1,0 +1,9 @@
+{
+    "parent": "mizuno:block/cube_box",
+    "textures": {
+        "particle": "mizuno:block/jukebox_side",
+        "bottom": "mizuno:block/note_block",
+        "top": "mizuno:block/jukebox_top",
+        "side": "mizuno:block/jukebox_side"
+    }
+}

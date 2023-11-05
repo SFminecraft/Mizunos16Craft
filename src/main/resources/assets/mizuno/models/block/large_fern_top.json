@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/tinted_cross",
+  "textures": {
+    "cross": "mizuno:block/large_fern_top"
+  }
+}

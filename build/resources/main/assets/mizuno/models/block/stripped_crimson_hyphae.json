@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/stripped_crimson_stem",
+    "side": "mizuno:block/stripped_crimson_stem"
+  }
+}

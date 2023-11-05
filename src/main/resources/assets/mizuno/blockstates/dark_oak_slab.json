@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/dark_oak_slab" },
+        "type=top": { "model": "mizuno:block/dark_oak_slab_top" },
+        "type=double": { "model": "mizuno:block/dark_oak_double_slab" }
+    }
+}

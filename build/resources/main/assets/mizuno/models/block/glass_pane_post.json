@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/template_glass_pane_post",
+  "textures": {
+    "edge": "mizuno:block/glass_pane_top",
+    "pane": "mizuno:block/glass"
+  }
+}

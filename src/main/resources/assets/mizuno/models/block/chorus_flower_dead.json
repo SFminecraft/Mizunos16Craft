@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_chorus_flower",
+  "textures": {
+    "texture": "mizuno:block/chorus_flower_dead"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column_horizontal",
+  "textures": {
+    "end": "mizuno:block/verdant_froglight_top",
+    "side": "mizuno:block/verdant_froglight_side"
+  }
+}

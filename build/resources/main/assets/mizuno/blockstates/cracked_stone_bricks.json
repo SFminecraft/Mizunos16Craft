@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "mizuno:block/cracked_stone_bricks" },
+            { "model": "mizuno:block/cracked_stone_bricks_0" },
+            { "model": "mizuno:block/cracked_stone_bricks_1" }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/cube_bottom_top",
+  "textures": {
+    "bottom": "mizuno:block/piston_bottom",
+    "side": "mizuno:block/piston_side",
+    "top": "mizuno:block/piston_top"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/slab_top",
+  "textures": {
+    "bottom": "mizuno:block/polished_diorite",
+    "side": "mizuno:block/polished_diorite",
+    "top": "mizuno:block/polished_diorite"
+  }
+}

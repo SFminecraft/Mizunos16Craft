@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mizuno:block/sand"
+      },
+      {
+        "model": "mizuno:block/sand",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/sand",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/sand",
+        "y": 270
+      }
+    ]
+  }
+}

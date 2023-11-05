@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/cube_rotate_all",
+  "textures": {
+    "all": "mizuno:block/sculk"
+  }
+}

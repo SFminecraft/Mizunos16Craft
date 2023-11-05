@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mizuno:block/attached_pumpkin_stem",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "mizuno:block/attached_pumpkin_stem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mizuno:block/attached_pumpkin_stem",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "mizuno:block/attached_pumpkin_stem"
+    }
+  }
+}

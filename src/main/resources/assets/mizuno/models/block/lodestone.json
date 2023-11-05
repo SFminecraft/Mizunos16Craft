@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/lodestone_top",
+    "side": "mizuno:block/lodestone_side"
+  }
+}

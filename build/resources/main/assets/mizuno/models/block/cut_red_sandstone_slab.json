@@ -1,0 +1,8 @@
+{
+    "parent": "mizuno:block/slab",
+    "textures": {
+        "bottom": "mizuno:block/red_sandstone",
+        "top": "mizuno:block/cut_red_sandstone",
+        "side": "mizuno:block/cut_red_sandstone"
+    }
+}

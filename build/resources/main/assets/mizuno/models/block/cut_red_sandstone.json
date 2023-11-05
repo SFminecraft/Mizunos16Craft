@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:block/cube_all",
+    "textures": {
+        "all": "mizuno:block/cut_red_sandstone"
+    }
+}

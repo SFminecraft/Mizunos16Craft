@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/flower_pot_cross",
+  "textures": {
+    "plant": "mizuno:block/dandelion"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:block/cube_column",
+    "textures": {
+        "end": "mizuno:block/chiseled_stone_bricks",
+        "side": "mizuno:block/chiseled_stone_bricks_side"
+    }
+}

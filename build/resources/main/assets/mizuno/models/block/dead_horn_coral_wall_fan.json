@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/coral_wall_fan",
+  "textures": {
+    "fan": "mizuno:block/dead_horn_coral_fan"
+  }
+}

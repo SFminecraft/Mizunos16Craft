@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:item/bundle",
+    "textures": {
+        "layer0": "mizuno:item/bundle_filled"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column_horizontal",
+  "textures": {
+    "end": "mizuno:block/quartz_pillar_top",
+    "side": "mizuno:block/quartz_pillar"
+  }
+}

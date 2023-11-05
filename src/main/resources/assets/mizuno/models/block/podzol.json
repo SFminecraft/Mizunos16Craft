@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/cube_bottom_top",
+  "textures": {
+    "bottom": "mizuno:block/dirt",
+    "side": "mizuno:block/podzol_side",
+    "top": "mizuno:block/podzol_top"
+  }
+}

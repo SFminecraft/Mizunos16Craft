@@ -1,0 +1,9 @@
+{
+    "parent": "mizuno:block/template_piston_head",
+    "textures": {
+        "unsticky": "mizuno:block/piston_top",
+        "side": "mizuno:block/piston_side",
+        "platform": "mizuno:block/piston_top",
+		"arm": "mizuno:block/piston_arm"
+    }
+}

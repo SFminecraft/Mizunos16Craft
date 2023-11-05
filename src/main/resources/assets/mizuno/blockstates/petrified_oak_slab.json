@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/petrified_oak_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/oak_planks"
+    },
+    "type=top": {
+      "model": "mizuno:block/petrified_oak_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/slab",
+  "textures": {
+    "bottom": "mizuno:block/weathered_cut_copper",
+    "side": "mizuno:block/weathered_cut_copper",
+    "top": "mizuno:block/weathered_cut_copper"
+  }
+}

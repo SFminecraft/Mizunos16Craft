@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=lower": [
+			{ "model": "mizuno:block/tall_grass_bottom" },
+			{ "model": "mizuno:block/tall_grass_bottom_0" }
+		],	
+        "half=upper": [
+			{ "model": "mizuno:block/tall_grass_top" },
+			{ "model": "mizuno:block/tall_grass_top_0" }
+		]
+    }
+}

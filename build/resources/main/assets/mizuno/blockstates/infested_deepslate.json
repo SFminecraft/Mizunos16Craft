@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "mizuno:block/deepslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/deepslate_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/deepslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/deepslate_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "mizuno:block/deepslate"
+      },
+      {
+        "model": "mizuno:block/deepslate_mirrored"
+      },
+      {
+        "model": "mizuno:block/deepslate",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/deepslate_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "mizuno:block/deepslate",
+        "x": 90
+      },
+      {
+        "model": "mizuno:block/deepslate_mirrored",
+        "x": 90
+      },
+      {
+        "model": "mizuno:block/deepslate",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/deepslate_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

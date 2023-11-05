@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:item/generated",
+  "textures": {
+    "layer0": "mizuno:block/glass"
+  }
+}

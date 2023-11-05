@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:item/bow",
+    "textures": {
+        "layer0": "mizuno:item/bow_pulling_0"
+    }
+}

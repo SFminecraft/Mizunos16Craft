@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mizuno:block/chipped_anvil",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "mizuno:block/chipped_anvil",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "mizuno:block/chipped_anvil"
+    },
+    "facing=west": {
+      "model": "mizuno:block/chipped_anvil",
+      "y": 90
+    }
+  }
+}

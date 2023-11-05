@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_torch_wall",
+  "textures": {
+    "torch": "mizuno:block/soul_torch"
+  }
+}

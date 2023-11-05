@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+	    { "model": "mizuno:block/bookshelf" },
+	    { "model": "mizuno:block/bookshelf_0" },
+	    { "model": "mizuno:block/bookshelf_1" }
+	]
+    }
+}

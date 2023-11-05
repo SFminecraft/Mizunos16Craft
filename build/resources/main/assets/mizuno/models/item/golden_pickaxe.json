@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:item/handheld",
+  "textures": {
+    "layer0": "mizuno:item/golden_pickaxe"
+  }
+}

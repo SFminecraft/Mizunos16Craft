@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/rail_curved",
+  "textures": {
+    "rail": "mizuno:block/rail_corner"
+  }
+}

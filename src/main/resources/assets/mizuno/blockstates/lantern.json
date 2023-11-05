@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "mizuno:block/lantern"
+    },
+    "hanging=true": {
+      "model": "mizuno:block/lantern_hanging"
+    }
+  }
+}

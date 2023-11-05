@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+	    { "model": "mizuno:block/fern", "weight": 3 },
+		{ "model": "mizuno:block/fern_0", "weight": 1 },
+		{ "model": "mizuno:block/fern_1", "weight": 1 },
+		{ "model": "mizuno:block/fern_2", "weight": 1 },
+		{ "model": "mizuno:block/fern_2_mirrored", "weight": 1 }
+		]
+    }
+}

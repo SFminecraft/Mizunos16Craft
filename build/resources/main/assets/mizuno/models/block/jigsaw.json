@@ -1,0 +1,12 @@
+{
+  "parent": "mizuno:block/cube_directional",
+  "textures": {
+    "down": "mizuno:block/jigsaw_side",
+    "east": "mizuno:block/jigsaw_side",
+    "north": "mizuno:block/jigsaw_top",
+    "particle": "mizuno:block/jigsaw_top",
+    "south": "mizuno:block/jigsaw_bottom",
+    "up": "mizuno:block/jigsaw_lock",
+    "west": "mizuno:block/jigsaw_side"
+  }
+}

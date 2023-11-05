@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/custom_fence_post",
+  "textures": {
+    "particle": "mizuno:block/bamboo_fence_particle",
+    "texture": "mizuno:block/bamboo_fence"
+  }
+}

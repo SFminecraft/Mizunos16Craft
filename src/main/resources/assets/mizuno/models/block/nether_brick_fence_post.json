@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:block/fence_post",
+    "textures": {
+        "texture": "mizuno:block/fence/fence_nether_brick"
+    }
+}

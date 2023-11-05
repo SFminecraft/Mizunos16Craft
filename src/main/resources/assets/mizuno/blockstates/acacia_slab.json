@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/acacia_slab" },
+        "type=top": { "model": "mizuno:block/acacia_slab_top" },
+        "type=double": { "model": "mizuno:block/acacia_double_slab" }
+    }
+}

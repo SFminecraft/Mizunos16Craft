@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_wall_side",
+  "textures": {
+    "wall": "mizuno:block/stone_bricks"
+  }
+}

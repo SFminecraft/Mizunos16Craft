@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:block/cube_column",
+    "textures": {
+        "end": "mizuno:block/double_slab/double_slab_cut_red_sandstone_top",
+        "side": "mizuno:block/double_slab/double_slab_cut_red_sandstone_side"
+    }
+}

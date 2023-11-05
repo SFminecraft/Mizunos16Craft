@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:item/generated",
+  "textures": {
+    "layer0": "mizuno:item/iron_boots",
+    "layer1": "mizuno:trims/items/boots_trim_redstone"
+  }
+}

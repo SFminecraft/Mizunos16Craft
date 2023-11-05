@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/orientable",
+  "textures": {
+    "front": "mizuno:block/furnace_front",
+    "side": "mizuno:block/furnace_side",
+    "top": "mizuno:block/furnace_top"
+  }
+}

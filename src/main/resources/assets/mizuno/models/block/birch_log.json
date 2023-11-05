@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/birch_log_top",
+    "side": "mizuno:block/birch_log"
+  }
+}

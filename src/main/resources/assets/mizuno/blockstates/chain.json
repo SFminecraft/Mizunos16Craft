@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mizuno:block/chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mizuno:block/chain"
+    },
+    "axis=z": {
+      "model": "mizuno:block/chain",
+      "x": 90
+    }
+  }
+}

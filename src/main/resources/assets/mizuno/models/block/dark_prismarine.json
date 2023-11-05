@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:block/cube_column",
+    "textures": {
+        "end": "mizuno:block/dark_prismarine_top",
+        "side": "mizuno:block/dark_prismarine"
+    }
+}

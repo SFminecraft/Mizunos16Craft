@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mizuno:block/stone"
+      },
+      {
+        "model": "mizuno:block/stone_mirrored"
+      },
+      {
+        "model": "mizuno:block/stone",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/stone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

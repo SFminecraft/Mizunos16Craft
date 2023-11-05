@@ -1,0 +1,208 @@
+{
+  "variants": {
+    "eggs=1,hatch=0": [
+      {
+        "model": "mizuno:block/turtle_egg"
+      },
+      {
+        "model": "mizuno:block/turtle_egg",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/turtle_egg",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/turtle_egg",
+        "y": 270
+      }
+    ],
+    "eggs=1,hatch=1": [
+      {
+        "model": "mizuno:block/slightly_cracked_turtle_egg"
+      },
+      {
+        "model": "mizuno:block/slightly_cracked_turtle_egg",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/slightly_cracked_turtle_egg",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/slightly_cracked_turtle_egg",
+        "y": 270
+      }
+    ],
+    "eggs=1,hatch=2": [
+      {
+        "model": "mizuno:block/very_cracked_turtle_egg"
+      },
+      {
+        "model": "mizuno:block/very_cracked_turtle_egg",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/very_cracked_turtle_egg",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/very_cracked_turtle_egg",
+        "y": 270
+      }
+    ],
+    "eggs=2,hatch=0": [
+      {
+        "model": "mizuno:block/two_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/two_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/two_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/two_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=2,hatch=1": [
+      {
+        "model": "mizuno:block/two_slightly_cracked_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/two_slightly_cracked_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/two_slightly_cracked_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/two_slightly_cracked_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=2,hatch=2": [
+      {
+        "model": "mizuno:block/two_very_cracked_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/two_very_cracked_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/two_very_cracked_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/two_very_cracked_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=3,hatch=0": [
+      {
+        "model": "mizuno:block/three_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/three_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/three_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/three_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=3,hatch=1": [
+      {
+        "model": "mizuno:block/three_slightly_cracked_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/three_slightly_cracked_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/three_slightly_cracked_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/three_slightly_cracked_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=3,hatch=2": [
+      {
+        "model": "mizuno:block/three_very_cracked_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/three_very_cracked_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/three_very_cracked_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/three_very_cracked_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=4,hatch=0": [
+      {
+        "model": "mizuno:block/four_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/four_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/four_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/four_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=4,hatch=1": [
+      {
+        "model": "mizuno:block/four_slightly_cracked_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/four_slightly_cracked_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/four_slightly_cracked_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/four_slightly_cracked_turtle_eggs",
+        "y": 270
+      }
+    ],
+    "eggs=4,hatch=2": [
+      {
+        "model": "mizuno:block/four_very_cracked_turtle_eggs"
+      },
+      {
+        "model": "mizuno:block/four_very_cracked_turtle_eggs",
+        "y": 90
+      },
+      {
+        "model": "mizuno:block/four_very_cracked_turtle_eggs",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/four_very_cracked_turtle_eggs",
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/orientable_vertical",
+  "textures": {
+    "front": "mizuno:block/dispenser_front_vertical",
+    "side": "mizuno:block/furnace_top"
+  }
+}

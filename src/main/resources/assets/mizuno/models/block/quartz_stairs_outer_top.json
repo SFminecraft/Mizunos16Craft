@@ -1,0 +1,8 @@
+{
+    "parent": "mizuno:block/outer_stairs",
+    "textures": {
+        "bottom": "mizuno:block/quartz_block_bottom",
+        "top": "mizuno:block/quartz_block_top",
+        "side": "mizuno:block/quartz_block_stair"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "mizuno:block/cake_slice3",
+    "textures": {
+        "particle": "mizuno:block/cake_side_1",
+        "bottom": "mizuno:block/cake_bottom",
+        "top": "mizuno:block/cake_top_1",
+        "side": "mizuno:block/cake_side_1",
+        "inside": "mizuno:block/cake_inner_1"
+    }
+}

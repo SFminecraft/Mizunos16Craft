@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/pressure_plate_down",
+  "textures": {
+    "texture": "mizuno:block/cherry_planks"
+  }
+}

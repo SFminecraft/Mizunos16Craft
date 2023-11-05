@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mizuno:block/moving_piston"
+    }
+  }
+}

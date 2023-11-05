@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/rail_flat",
+  "textures": {
+    "rail": "mizuno:block/activator_rail"
+  }
+}

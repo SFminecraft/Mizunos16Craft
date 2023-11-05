@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/template_custom_fence_gate_wall_open",
+  "textures": {
+    "particle": "mizuno:block/bamboo_fence_gate_particle",
+    "texture": "mizuno:block/bamboo_fence_gate"
+  }
+}

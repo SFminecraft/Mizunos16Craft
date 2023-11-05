@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_lantern_hanging",
+  "textures": {
+    "lantern": "mizuno:block/soul_lantern"
+  }
+}

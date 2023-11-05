@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:item/generated",
+    "textures": {
+        "layer0": "mizuno:item/potion_overlay",
+        "layer1": "mizuno:item/splash_potion"
+    }
+}

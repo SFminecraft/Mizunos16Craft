@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/custom_fence_side_north",
+  "textures": {
+    "texture": "mizuno:block/bamboo_fence"
+  }
+}

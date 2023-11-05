@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "mizuno:block/bamboo_block_top",
+    "side": "mizuno:block/bamboo_block"
+  }
+}

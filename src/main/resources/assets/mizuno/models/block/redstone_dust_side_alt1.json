@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:block/redstone_dust_side_alt",
+    "textures": {
+        "line": "mizuno:block/redstone_dust_line1"
+    }
+}

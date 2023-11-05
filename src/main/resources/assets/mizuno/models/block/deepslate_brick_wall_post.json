@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_wall_post",
+  "textures": {
+    "wall": "mizuno:block/deepslate_bricks"
+  }
+}

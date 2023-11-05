@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mizuno:block/jack_o_lantern",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mizuno:block/jack_o_lantern"
+    },
+    "facing=south": {
+      "model": "mizuno:block/jack_o_lantern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mizuno:block/jack_o_lantern",
+      "y": 270
+    }
+  }
+}

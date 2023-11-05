@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/slab",
+  "textures": {
+    "bottom": "mizuno:block/mossy_stone_bricks",
+    "side": "mizuno:block/mossy_stone_bricks",
+    "top": "mizuno:block/mossy_stone_bricks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/crimson_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/crimson_double_slab"
+    },
+    "type=top": {
+      "model": "mizuno:block/crimson_slab_top"
+    }
+  }
+}
