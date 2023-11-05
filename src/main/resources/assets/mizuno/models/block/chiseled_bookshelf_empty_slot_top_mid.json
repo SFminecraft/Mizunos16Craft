@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_chiseled_bookshelf_slot_top_mid",
+  "textures": {
+    "texture": "mizuno:block/chiseled_bookshelf_empty"
+  }
+}

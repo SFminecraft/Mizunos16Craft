@@ -1,0 +1,7 @@
+{
+	"parent": "mizuno:block/template_wall_side_sand",
+	"textures": {
+		"0": "mizuno:block/sandstone_wall",
+		"1": "mizuno:block/sandstone_top"
+	}
+}

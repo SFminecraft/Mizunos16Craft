@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/mangrove_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/mangrove_double_slab"
+    },
+    "type=top": {
+      "model": "mizuno:block/mangrove_slab_top"
+    }
+  }
+}

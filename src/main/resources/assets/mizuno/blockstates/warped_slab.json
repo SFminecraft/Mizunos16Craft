@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/warped_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/warped_double_slab"
+    },
+    "type=top": {
+      "model": "mizuno:block/warped_slab_top"
+    }
+  }
+}

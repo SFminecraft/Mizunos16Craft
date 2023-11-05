@@ -1,0 +1,9 @@
+{
+  "parent": "mizuno:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "mizuno:block/smoker_bottom",
+    "front": "mizuno:block/smoker_front_on",
+    "side": "mizuno:block/smoker_side",
+    "top": "mizuno:block/smoker_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "mizuno:item/generated",
+    "textures": {
+        "layer0": "mizuno:item/bundle"
+    },
+    "overrides": [
+        { "predicate": { "filled": 0.0000001 }, "model": "mizuno:item/bundle_filled" }
+    ]
+}

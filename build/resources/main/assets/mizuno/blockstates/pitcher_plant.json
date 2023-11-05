@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "mizuno:block/pitcher_plant_bottom"
+    },
+    "half=upper": {
+      "model": "mizuno:block/pitcher_plant_top"
+    }
+  }
+}

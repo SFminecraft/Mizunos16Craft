@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "mizuno:block/seagrass" },
+            { "model": "mizuno:block/seagrass_0" },
+            { "model": "mizuno:block/seagrass_1" }
+        ]
+    }
+}

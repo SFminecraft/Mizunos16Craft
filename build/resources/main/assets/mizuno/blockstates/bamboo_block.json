@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mizuno:block/bamboo_block_x"
+    },
+    "axis=y": {
+      "model": "mizuno:block/bamboo_block_y"
+    },
+    "axis=z": {
+      "model": "mizuno:block/bamboo_block_z"
+    }
+  }
+}

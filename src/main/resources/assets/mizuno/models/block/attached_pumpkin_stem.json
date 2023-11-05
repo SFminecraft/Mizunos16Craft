@@ -1,0 +1,9 @@
+{
+    "parent": "mizuno:block/stem_fruit_0",
+    "textures": {
+        "0": "mizuno:block/pumpkin_stem",
+        "1": "mizuno:block/attached_pumpkin_stem",
+		"2": "mizuno:block/pumpkin_stem_0",
+		"3": "mizuno:block/pumpkin_stem_1"
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mizuno:block/small_amethyst_bud",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "mizuno:block/small_amethyst_bud",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mizuno:block/small_amethyst_bud",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "mizuno:block/small_amethyst_bud",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "mizuno:block/small_amethyst_bud"
+    },
+    "facing=west": {
+      "model": "mizuno:block/small_amethyst_bud",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/smooth_quartz_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/smooth_quartz"
+    },
+    "type=top": {
+      "model": "mizuno:block/smooth_quartz_slab_top"
+    }
+  }
+}

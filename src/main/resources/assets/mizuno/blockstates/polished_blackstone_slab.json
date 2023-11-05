@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/polished_blackstone_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/polished_blackstone_double_slab"
+    },
+    "type=top": {
+      "model": "mizuno:block/polished_blackstone_slab_top"
+    }
+  }
+}

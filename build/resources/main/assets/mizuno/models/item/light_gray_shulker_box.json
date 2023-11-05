@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:item/template_shulker_box",
+  "textures": {
+    "particle": "mizuno:block/light_gray_shulker_box"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/stone_brick_slab" },
+        "type=top": { "model": "mizuno:block/stone_brick_slab_top" },
+        "type=double": [
+            { "model": "mizuno:block/stonebrick_double_slab" },
+            { "model": "mizuno:block/stonebrick_double_slab", "y": 90 },
+            { "model": "mizuno:block/stonebrick_double_slab", "y": 180 },
+            { "model": "mizuno:block/stonebrick_double_slab", "y": 270 }
+        ]
+    }
+}

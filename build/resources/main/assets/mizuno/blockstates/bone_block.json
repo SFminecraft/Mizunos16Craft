@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mizuno:block/bone_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mizuno:block/bone_block"
+    },
+    "axis=z": {
+      "model": "mizuno:block/bone_block",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/smooth_stone",
+    "side": "mizuno:block/smooth_stone_slab_side"
+  }
+}

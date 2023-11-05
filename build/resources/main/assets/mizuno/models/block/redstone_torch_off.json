@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_torch",
+  "textures": {
+    "torch": "mizuno:block/redstone_torch_off"
+  }
+}

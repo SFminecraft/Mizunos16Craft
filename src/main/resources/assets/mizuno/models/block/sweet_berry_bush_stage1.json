@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/cross",
+  "textures": {
+    "cross": "mizuno:block/sweet_berry_bush_stage1"
+  }
+}

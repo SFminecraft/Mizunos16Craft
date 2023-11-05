@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mizuno:block/gravel" },
+            { "model": "mizuno:block/gravel", "y": 90 },
+            { "model": "mizuno:block/gravel", "y": 180 },
+            { "model": "mizuno:block/gravel", "y": 270 }
+        ]
+    }
+}

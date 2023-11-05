@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:item/generated",
+  "textures": {
+    "layer0": "mizuno:item/iron_leggings",
+    "layer1": "mizuno:trims/items/leggings_trim_quartz"
+  }
+}

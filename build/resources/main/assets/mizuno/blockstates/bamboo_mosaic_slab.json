@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/bamboo_mosaic_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/bamboo_mosaic_double_slab"
+    },
+    "type=top": {
+      "model": "mizuno:block/bamboo_mosaic_slab_top"
+    }
+  }
+}

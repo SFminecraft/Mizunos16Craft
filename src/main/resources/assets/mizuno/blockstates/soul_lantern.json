@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "mizuno:block/soul_lantern"
+    },
+    "hanging=true": {
+      "model": "mizuno:block/soul_lantern_hanging"
+    }
+  }
+}

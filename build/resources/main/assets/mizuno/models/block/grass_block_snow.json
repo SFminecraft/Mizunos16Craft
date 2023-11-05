@@ -1,0 +1,9 @@
+{
+  "parent": "mizuno:block/cube_bottom_top",
+  "textures": {
+    "bottom": "mizuno:block/dirt",
+    "particle": "mizuno:block/dirt",
+    "side": "mizuno:block/grass_block_snow",
+    "top": "mizuno:block/grass_block_top"
+  }
+}

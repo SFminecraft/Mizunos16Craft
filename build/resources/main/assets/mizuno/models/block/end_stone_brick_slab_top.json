@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/slab_top",
+  "textures": {
+    "bottom": "mizuno:block/end_stone_bricks",
+    "side": "mizuno:block/end_stone_bricks",
+    "top": "mizuno:block/end_stone_bricks"
+  }
+}

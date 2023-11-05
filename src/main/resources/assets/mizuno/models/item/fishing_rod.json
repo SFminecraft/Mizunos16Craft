@@ -1,0 +1,14 @@
+{
+    "parent": "mizuno:item/handheld_rod",
+    "textures": {
+        "layer0": "mizuno:item/fishing_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "mizuno:item/fishing_rod_cast"
+        }
+    ]
+}

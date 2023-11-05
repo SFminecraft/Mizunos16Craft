@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_glazed_terracotta",
+  "textures": {
+    "pattern": "mizuno:block/black_glazed_terracotta"
+  }
+}

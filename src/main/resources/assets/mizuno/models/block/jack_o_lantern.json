@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/orientable",
+  "textures": {
+    "front": "mizuno:block/jack_o_lantern",
+    "side": "mizuno:block/pumpkin_side",
+    "top": "mizuno:block/pumpkin_top"
+  }
+}

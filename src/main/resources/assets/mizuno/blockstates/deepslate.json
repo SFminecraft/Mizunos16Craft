@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "mizuno:block/deepslate",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "mizuno:block/deepslate"
+      },
+      {
+        "model": "mizuno:block/deepslate",
+		 "y": 90
+      },
+      {
+        "model": "mizuno:block/deepslate",
+        "y": 180
+      },
+      {
+        "model": "mizuno:block/deepslate",
+        "y": 270
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "mizuno:block/deepslate",
+        "x": 90
+      }
+    ]
+  }
+}

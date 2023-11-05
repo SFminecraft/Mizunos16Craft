@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mizuno:block/wall_torch"
+    },
+    "facing=north": {
+      "model": "mizuno:block/wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "mizuno:block/wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "mizuno:block/wall_torch",
+      "y": 180
+    }
+  }
+}

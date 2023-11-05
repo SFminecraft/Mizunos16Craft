@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/pressure_plate_up",
+  "textures": {
+    "texture": "mizuno:block/stone"
+  }
+}

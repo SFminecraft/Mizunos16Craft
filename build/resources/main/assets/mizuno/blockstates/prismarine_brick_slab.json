@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/prismarine_brick_slab" },
+        "type=top": { "model": "mizuno:block/prismarine_brick_slab_top" },
+        "type=double": { "model": "mizuno:block/prismarine_bricks_double_slab" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/mangrove_log",
+    "side": "mizuno:block/mangrove_log"
+  }
+}

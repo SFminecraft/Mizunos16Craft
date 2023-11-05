@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_four_turtle_eggs",
+  "textures": {
+    "all": "mizuno:block/turtle_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "mizuno:block/cherry_trapdoor"
+  }
+}

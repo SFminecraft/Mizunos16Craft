@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "mizuno:block/blue_stained_glass"
+  }
+}

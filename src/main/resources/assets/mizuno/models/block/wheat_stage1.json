@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/crop",
+  "textures": {
+    "crop": "mizuno:block/wheat_stage1"
+  }
+}

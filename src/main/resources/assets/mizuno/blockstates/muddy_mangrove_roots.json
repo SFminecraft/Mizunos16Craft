@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mizuno:block/muddy_mangrove_roots",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mizuno:block/muddy_mangrove_roots"
+    },
+    "axis=z": {
+      "model": "mizuno:block/muddy_mangrove_roots",
+      "x": 90
+    }
+  }
+}

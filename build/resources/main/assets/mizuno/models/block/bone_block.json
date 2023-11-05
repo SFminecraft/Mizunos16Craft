@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/bone_block_top",
+    "side": "mizuno:block/bone_block_side"
+  }
+}

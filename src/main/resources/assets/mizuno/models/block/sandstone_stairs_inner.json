@@ -1,0 +1,9 @@
+{
+    "parent": "mizuno:block/inner_stairs_0",
+    "textures": {
+        "bottom": "mizuno:block/sandstone_bottom",
+        "top": "mizuno:block/sandstone_top",
+        "side": "mizuno:block/sandstone_stair",
+		"side_0": "mizuno:block/sandstone_stair_0"
+    }
+}

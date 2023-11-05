@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/carpet",
+  "textures": {
+    "wool": "mizuno:block/magenta_wool"
+  }
+}

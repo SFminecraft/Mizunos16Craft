@@ -1,0 +1,12 @@
+{
+    "parent": "mizuno:block/cube",
+    "textures": {
+        "particle": "mizuno:block/smithing_table_front",
+        "down": "mizuno:block/smithing_table_bottom",
+        "up": "mizuno:block/smithing_table_top",
+        "north": "mizuno:block/smithing_table_side_1",
+        "east": "mizuno:block/smithing_table_side",
+        "south": "mizuno:block/smithing_table_front",
+        "west": "mizuno:block/smithing_table_side_0"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "mizuno:block/cube_column",
+    "textures": {
+        "end": "mizuno:block/brown_stained_glass_top",
+        "side": "mizuno:block/brown_stained_glass"
+
+    }
+}

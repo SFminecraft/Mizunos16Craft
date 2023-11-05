@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mizuno:block/crafting_table" },
+			{ "model": "mizuno:block/crafting_table", "y": 90 },
+            { "model": "mizuno:block/crafting_table", "y": 180 },
+            { "model": "mizuno:block/crafting_table", "y": 270 }
+			]
+    }
+}

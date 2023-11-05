@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/jungle_slab" },
+        "type=top": { "model": "mizuno:block/jungle_slab_top" },
+        "type=double": { "model": "mizuno:block/jungle_double_slab" }
+    }
+}

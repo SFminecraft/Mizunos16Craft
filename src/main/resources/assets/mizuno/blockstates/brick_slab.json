@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/brick_slab" },
+        "type=top": { "model": "mizuno:block/brick_slab_top" },
+        "type=double": { "model": "mizuno:block/brick_double_slab" }
+    }
+}

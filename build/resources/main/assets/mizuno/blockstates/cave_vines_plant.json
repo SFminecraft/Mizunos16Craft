@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "berries=false": {
+      "model": "mizuno:block/cave_vines_plant"
+    },
+    "berries=true": {
+      "model": "mizuno:block/cave_vines_plant_lit"
+    }
+  }
+}

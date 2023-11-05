@@ -1,0 +1,9 @@
+{
+    "parent": "mizuno:block/cube_box",
+    "textures": {
+        "particle": "mizuno:block/tnt_top",
+        "bottom": "mizuno:block/tnt_bottom",
+        "top": "mizuno:block/tnt_top",
+        "side": "mizuno:block/tnt_side"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/deepslate_tile_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/deepslate_tiles"
+    },
+    "type=top": {
+      "model": "mizuno:block/deepslate_tile_slab_top"
+    }
+  }
+}

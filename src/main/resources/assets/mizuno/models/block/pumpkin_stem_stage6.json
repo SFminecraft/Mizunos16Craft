@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/stem_growth6",
+  "textures": {
+    "stem": "mizuno:block/pumpkin_stem"
+  }
+}

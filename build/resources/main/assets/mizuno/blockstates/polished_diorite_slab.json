@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mizuno:block/polished_diorite_slab" },
+        "type=top": { "model": "mizuno:block/polished_diorite_slab_top" },
+        "type=double": { "model": "mizuno:block/polished_diorite_double_slab" }
+    }
+}

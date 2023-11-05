@@ -1,0 +1,10 @@
+{
+    "parent": "mizuno:block/grass_block",
+    "textures": {
+        "particle": "mizuno:block/dirt",
+        "bottom": "mizuno:block/dirt",
+        "top": "mizuno:block/grass_block_top_1",
+        "side": "mizuno:block/grass_block_side",
+        "overlay": "mizuno:block/grass_block_side_overlay"
+    }
+}

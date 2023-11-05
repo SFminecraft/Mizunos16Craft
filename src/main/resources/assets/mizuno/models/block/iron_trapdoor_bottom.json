@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_trapdoor_bottom",
+  "textures": {
+    "texture": "mizuno:block/iron_trapdoor"
+  }
+}

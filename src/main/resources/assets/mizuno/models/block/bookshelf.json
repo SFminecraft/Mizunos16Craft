@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:block/cube_column_bookshelf",
+    "textures": {
+        "end": "mizuno:block/oak_planks",
+        "side": "mizuno:block/bookshelf"
+    }
+}

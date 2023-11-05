@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/inner_stairs",
+  "textures": {
+    "bottom": "mizuno:block/prismarine",
+    "side": "mizuno:block/prismarine",
+    "top": "mizuno:block/prismarine"
+  }
+}

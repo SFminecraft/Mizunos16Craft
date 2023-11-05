@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/outer_stairs",
+  "textures": {
+    "bottom": "mizuno:block/bamboo_mosaic",
+    "side": "mizuno:block/bamboo_mosaic",
+    "top": "mizuno:block/bamboo_mosaic"
+  }
+}

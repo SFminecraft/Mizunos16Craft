@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/crop",
+  "textures": {
+    "crop": "mizuno:block/potatoes_stage3"
+  }
+}

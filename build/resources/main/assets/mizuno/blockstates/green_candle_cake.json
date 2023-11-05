@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mizuno:block/green_candle_cake"
+    },
+    "lit=true": {
+      "model": "mizuno:block/green_candle_cake_lit"
+    }
+  }
+}

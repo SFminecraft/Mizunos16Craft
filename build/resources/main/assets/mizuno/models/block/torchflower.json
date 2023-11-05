@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/cross",
+  "textures": {
+    "cross": "mizuno:block/torchflower"
+  }
+}

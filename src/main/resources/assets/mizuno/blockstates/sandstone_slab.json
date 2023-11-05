@@ -1,0 +1,7 @@
+{
+    "variants": {
+	"type=bottom": { "model": "mizuno:block/sandstone_slab" },
+        "type=top": { "model": "mizuno:block/sandstone_slab_top" },
+        "type=double": { "model": "mizuno:block/sandstone_double_slab" }
+    }
+}

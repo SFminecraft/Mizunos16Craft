@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/acacia_log",
+    "side": "mizuno:block/acacia_log"
+  }
+}

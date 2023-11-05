@@ -1,0 +1,11 @@
+{
+  "parent": "mizuno:block/template_cauldron_level1",
+  "textures": {
+    "bottom": "mizuno:block/cauldron_bottom",
+    "content": "mizuno:block/water_still",
+    "inside": "mizuno:block/cauldron_inner",
+    "particle": "mizuno:block/cauldron_side",
+    "side": "mizuno:block/cauldron_side",
+    "top": "mizuno:block/cauldron_top"
+  }
+}

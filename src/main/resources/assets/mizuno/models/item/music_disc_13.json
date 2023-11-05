@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:item/template_music_disc",
+  "textures": {
+    "layer0": "mizuno:item/music_disc_13"
+  }
+}

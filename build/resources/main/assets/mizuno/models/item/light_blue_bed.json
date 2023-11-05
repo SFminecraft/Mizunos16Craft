@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:item/template_bed",
+  "textures": {
+    "particle": "mizuno:block/light_blue_wool"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/button",
+  "textures": {
+    "texture": "mizuno:block/mangrove_planks"
+  }
+}

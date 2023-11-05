@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/template_four_candles",
+  "textures": {
+    "all": "mizuno:block/magenta_candle_lit",
+    "particle": "mizuno:block/magenta_candle_lit"
+  }
+}

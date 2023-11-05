@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_anvil",
+  "textures": {
+    "top": "mizuno:block/damaged_anvil_top"
+  }
+}

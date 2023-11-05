@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/cube_column",
+  "textures": {
+    "end": "mizuno:block/stripped_cherry_log",
+    "side": "mizuno:block/stripped_cherry_log"
+  }
+}

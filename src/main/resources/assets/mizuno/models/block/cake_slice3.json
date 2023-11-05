@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "mizuno:block/cake_side",
+        "bottom": "mizuno:block/cake_bottom",
+        "top": "mizuno:block/cake_top",
+        "side": "mizuno:block/cake_side",
+        "inside": "mizuno:block/cake_inner"
+    },
+    "elements": [
+        {   "from": [ 7, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

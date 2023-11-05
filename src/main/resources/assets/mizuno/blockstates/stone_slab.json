@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/stone_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/stone"
+    },
+    "type=top": {
+      "model": "mizuno:block/stone_slab_top"
+    }
+  }
+}

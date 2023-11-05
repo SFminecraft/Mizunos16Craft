@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_rail_raised_ne",
+  "textures": {
+    "rail": "mizuno:block/powered_rail_on"
+  }
+}

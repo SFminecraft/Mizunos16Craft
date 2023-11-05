@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "mizuno:block/mossy_stone_bricks" },
+            { "model": "mizuno:block/mossy_stone_bricks_0" },
+            { "model": "mizuno:block/mossy_stone_bricks_1" }
+        ]
+    }
+}

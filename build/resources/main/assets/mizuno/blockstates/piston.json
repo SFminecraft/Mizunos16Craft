@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "extended=false,facing=down": {
+      "model": "mizuno:block/piston",
+      "x": 90
+    },
+    "extended=false,facing=east": {
+      "model": "mizuno:block/piston",
+      "y": 90
+    },
+    "extended=false,facing=north": {
+      "model": "mizuno:block/piston"
+    },
+    "extended=false,facing=south": {
+      "model": "mizuno:block/piston",
+      "y": 180
+    },
+    "extended=false,facing=up": {
+      "model": "mizuno:block/piston",
+      "x": 270
+    },
+    "extended=false,facing=west": {
+      "model": "mizuno:block/piston",
+      "y": 270
+    },
+    "extended=true,facing=down": {
+      "model": "mizuno:block/piston_base",
+      "x": 90
+    },
+    "extended=true,facing=east": {
+      "model": "mizuno:block/piston_base",
+      "y": 90
+    },
+    "extended=true,facing=north": {
+      "model": "mizuno:block/piston_base"
+    },
+    "extended=true,facing=south": {
+      "model": "mizuno:block/piston_base",
+      "y": 180
+    },
+    "extended=true,facing=up": {
+      "model": "mizuno:block/piston_base",
+      "x": 270
+    },
+    "extended=true,facing=west": {
+      "model": "mizuno:block/piston_base",
+      "y": 270
+    }
+  }
+}

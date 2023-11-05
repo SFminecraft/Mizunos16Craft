@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mizuno:block/cut_copper_slab"
+    },
+    "type=double": {
+      "model": "mizuno:block/cut_copper"
+    },
+    "type=top": {
+      "model": "mizuno:block/cut_copper_slab_top"
+    }
+  }
+}

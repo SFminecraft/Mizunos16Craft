@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/wall_inventory",
+  "textures": {
+    "wall": "mizuno:block/mossy_stone_bricks"
+  }
+}

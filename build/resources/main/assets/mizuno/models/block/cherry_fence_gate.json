@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:block/template_fence_gate",
+    "textures": {
+        "texture": "mizuno:block/fence/fence_gate_cherry"
+    }
+}

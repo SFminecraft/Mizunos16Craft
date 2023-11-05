@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "mizuno:block/dark_oak_door_bottom",
+    "top": "mizuno:block/dark_oak_door_top"
+  }
+}

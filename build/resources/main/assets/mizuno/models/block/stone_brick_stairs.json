@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/stairs",
+  "textures": {
+    "bottom": "mizuno:block/stone_bricks",
+    "side": "mizuno:block/stone_bricks",
+    "top": "mizuno:block/stone_bricks"
+  }
+}

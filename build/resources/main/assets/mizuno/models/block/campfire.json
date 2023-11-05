@@ -1,0 +1,7 @@
+{
+  "parent": "mizuno:block/template_campfire",
+  "textures": {
+    "fire": "mizuno:block/campfire_fire",
+    "lit_log": "mizuno:block/campfire_log_lit"
+  }
+}

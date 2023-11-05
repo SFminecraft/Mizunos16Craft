@@ -1,0 +1,6 @@
+{
+    "parent": "mizuno:item/chest",
+    "textures": {
+        "particle": "mizuno:block/obsidian"
+    }
+}

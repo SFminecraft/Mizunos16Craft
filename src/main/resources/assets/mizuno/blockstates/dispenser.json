@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mizuno:block/dispenser_vertical",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "mizuno:block/dispenser",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mizuno:block/dispenser"
+    },
+    "facing=south": {
+      "model": "mizuno:block/dispenser",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "mizuno:block/dispenser_vertical"
+    },
+    "facing=west": {
+      "model": "mizuno:block/dispenser",
+      "y": 270
+    }
+  }
+}

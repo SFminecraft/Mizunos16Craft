@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "inverted=false": {
+      "model": "mizuno:block/daylight_detector"
+    },
+    "inverted=true": {
+      "model": "mizuno:block/daylight_detector_inverted"
+    }
+  }
+}

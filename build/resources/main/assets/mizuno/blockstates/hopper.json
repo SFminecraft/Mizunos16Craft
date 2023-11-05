@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mizuno:block/hopper"
+    },
+    "facing=east": {
+      "model": "mizuno:block/hopper_side",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mizuno:block/hopper_side"
+    },
+    "facing=south": {
+      "model": "mizuno:block/hopper_side",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mizuno:block/hopper_side",
+      "y": 270
+    }
+  }
+}

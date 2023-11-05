@@ -1,0 +1,12 @@
+{
+    "parent": "mizuno:block/cube",
+    "textures": {
+        "particle": "mizuno:block/fletching_table_front",
+        "down": "mizuno:block/birch_planks",
+        "up": "mizuno:block/fletching_table_top",
+        "north": "mizuno:block/fletching_table_side_1",
+        "east": "mizuno:block/fletching_table_side",
+        "south": "mizuno:block/fletching_table_front",
+        "west": "mizuno:block/fletching_table_side_0"
+    }
+}

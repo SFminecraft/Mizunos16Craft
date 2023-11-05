@@ -1,0 +1,6 @@
+{
+  "parent": "mizuno:block/template_lantern",
+  "textures": {
+    "lantern": "mizuno:block/soul_lantern"
+  }
+}

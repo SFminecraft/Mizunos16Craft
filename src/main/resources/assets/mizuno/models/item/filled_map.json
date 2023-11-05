@@ -1,0 +1,7 @@
+{
+    "parent": "mizuno:item/generated",
+    "textures": {
+        "layer0": "mizuno:item/filled_map",
+        "layer1": "mizuno:item/filled_map_markings"
+    }
+}

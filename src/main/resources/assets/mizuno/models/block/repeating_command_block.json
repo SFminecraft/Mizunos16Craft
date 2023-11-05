@@ -1,0 +1,8 @@
+{
+  "parent": "mizuno:block/template_command_block",
+  "textures": {
+    "back": "mizuno:block/repeating_command_block_back",
+    "front": "mizuno:block/repeating_command_block_front",
+    "side": "mizuno:block/repeating_command_block_side"
+  }
+}

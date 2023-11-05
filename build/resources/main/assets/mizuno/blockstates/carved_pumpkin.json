@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mizuno:block/carved_pumpkin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mizuno:block/carved_pumpkin"
+    },
+    "facing=south": {
+      "model": "mizuno:block/carved_pumpkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mizuno:block/carved_pumpkin",
+      "y": 270
+    }
+  }
+}
